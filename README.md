@@ -28,7 +28,7 @@ Generate Pyrogram String Session Using this bot.
 
 #### Coded By
 - [🕊️⃝‌⭕ᯱꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ 🇰𝖎𝖙𝖙𝖚🇹𝖙𝖍𝖊 🇲𝖊⭕𝖜](https://t.me/Kittu_the_criminal)
-- [⚠💔🇱‌🇴‌🇳‌🇪‌🇱‌🇾‌🇰‌🇮‌🇳‌🇬‌💔⚠](https://t.me/@Sarbudeen786)
+- [⚠💔🇱‌🇴‌🇳‌🇪‌🇱‌🇾‌🇰‌🇮‌🇳‌🇬‌💔⚠](https://t.me/Sarbudeen786)
 
 
 [Management repo](https://github.com/KdIfamily/galaxy/blob/Main/README.md)
